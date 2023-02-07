@@ -14,6 +14,8 @@ In this application we learned how to use Sequelize to create a Database. We fur
 - install insominia
 
 ## Usage
+- Start mysql and create db by runing Schema.sql
+- Seed the db by running npm run seed
 - Start application by running nodemon or node server.js
 - Open insomnia
 - View roles by using GET and the file path
@@ -23,6 +25,7 @@ In this application we learned how to use Sequelize to create a Database. We fur
 - Delete Data by using a Delete and file path
 
 ## Features
+[Video](https://drive.google.com/file/d/14BNbWQmw4Q9cIMJGTi3QqRAHaYppqPk6/view)
 - User can retrieve data from Category, Product, Tag Table. 
 - User can create data to Category, Product, Tag Table.
 - User can Update data from Category, Product, Tag Table.
